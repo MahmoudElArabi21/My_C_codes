@@ -33,8 +33,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/1Learn/EMBEDDED/A.A Embedded diploma A.A/01_Programming Course/My_C_codes/Stack_Implementation",
-      "program": "d:/1Learn/EMBEDDED/A.A Embedded diploma A.A/01_Programming Course/My_C_codes/Stack_Implementation/build/Debug/outDebug",
+      "cwd": "d:/1Learn/EMBEDDED/A.A Embedded diploma A.A/01_Programming Course/My_C_codes/01-Stack_Implementation",
+      "program": "d:/1Learn/EMBEDDED/A.A Embedded diploma A.A/01_Programming Course/My_C_codes/01-Stack_Implementation/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
