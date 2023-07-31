@@ -2,7 +2,8 @@
   "files.associations": {
     "stdlib.h": "c",
     "stack.h": "c",
-    "my_types.h": "c"
+    "my_types.h": "c",
+    "search_algotithms.h": "c"
   },
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.cCompilerPath": "gcc",
