@@ -3,7 +3,8 @@
     "stdlib.h": "c",
     "stack.h": "c",
     "my_types.h": "c",
-    "search_algotithms.h": "c"
+    "search_algotithms.h": "c",
+    "sorting_algorithms.h": "c"
   },
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.cCompilerPath": "gcc",
