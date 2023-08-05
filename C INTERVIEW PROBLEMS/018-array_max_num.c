@@ -1,12 +1,7 @@
 // C function returns the maximum number in array.
 #include <stdio.h>
 
-void print_array (int arr[], int size){
-    for (int i=0; i<size; i++) {
-        printf("%d\t", arr[i]);
-    }
-    printf("\n");
-}
+
 
 int array_max_num(int arr[], int size){
     int max = arr[0];
