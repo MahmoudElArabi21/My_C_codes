@@ -16,16 +16,14 @@ void linear_search (int element, int arr[], int size){
     for(int i =0; i< size; i++){
         if (element == arr[i]){
             index = i;
-            break;;
+            break;
         }
     }
     if (index == -1){
         printf("NOT found \n");
-        }
+    }
     else{
-        {
         printf("foungd at index %d\n", index);
-        }
     }
 }
 
